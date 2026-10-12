@@ -1,0 +1,16 @@
+CREATE SCHEMA administrative;
+GO
+CREATE SCHEMA security;
+GO
+CREATE SCHEMA audit;
+GO
+CREATE SCHEMA config;
+GO
+CREATE SCHEMA staging;
+GO
+CREATE SCHEMA silver;
+GO
+CREATE SCHEMA gold;
+GO
+CREATE SCHEMA archive;
+GO
